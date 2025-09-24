@@ -1,11 +1,47 @@
-# Problem-Solving
+# Problem-Solving Repository
 
-This repository contains all coding problems I have solved.
+## About
+This repository contains my problem-solving solutions in **C++**, demonstrating my skills in:
+- Arrays & Loops
+- Strings & String Manipulation
+- Sorting & Searching Algorithms
+- Graphs, Hashing, and Dynamic Programming
+- Advanced Data Structures (Trie, Z-algorithm, etc.)
+- Problem-solving on **HackerRank**
 
-## Skills Learned
-- Problem-solving in Java
-- Algorithms: Arrays, Strings, Sorting, Recursion
-- Logical thinking
+All solutions are organized by **topic and difficulty level**, ready for scholarship review.
 
-## How to Use
-Each folder contains problem description, my solution, and explanation.
+---
+
+## Repository Structure
+- **Arrays:** Basic and medium-level problems with arrays and loops  
+- **Strings:** String manipulation problems (palindrome, anagram, pattern matching, Z-algorithm)  
+- **Advanced:** Graphs, Hashing, DP, and other advanced algorithms  
+
+---
+
+## Problems Solved
+
+### Arrays
+- Solve Me First  
+- Simple Array Sum  
+- Compare Triplets  
+- Insertion Sort Shifts (Merge Inversion Count)  
+- Activity Notifications  
+
+### Strings
+- Palindrome Index  
+- Anagram  
+- String Similarity (Z-algorithm)  
+
+### Advanced
+- DNA Health (Trie / Aho-Corasick Algorithm)  
+- BFS Shortest Reach (Graph / BFS problem)  
+- Sherlock and Anagrams (Hashing / Frequency count)  
+- Coin Change Problem (Dynamic Programming)  
+
+---
+
+## How to Run
+Each folder contains `.cpp` files. To run a solution:
+
